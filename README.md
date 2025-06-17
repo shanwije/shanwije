@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/D5603AQFraJ-cSWu4ZQ/profile-displayphoto-shrink_200_200/0/1710404136318?e=1723680000&v=beta&t=BgWoNa86v5VX8qGvK9T8yZ-hRltcgZHpq4S8PlwbKm8" alt="Shan Wijenayaka" width="200" />
+<img src="https://agrithon.racuok.lk/wp-content/uploads/2021/02/shan_wijenayaka_sse_wiley.jpg" alt="Shan Wijenayaka" width="200" />
 
 <br/>
 

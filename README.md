@@ -15,12 +15,12 @@
 
 ---
 
-### What I do
+### Focus
 
-- **AI/ML platforms** — LLM orchestration, RAG, multi-agent & voice AI, fine-tuning (LoRA)
-- **Low-latency serving** — vLLM, quantization (AWQ/GPTQ), semantic caching, latency-tiered routing
-- **Distributed systems** — event-driven architecture, Kafka, microservices
-- **Cloud & reliability** — AWS (EKS, MSK, Aurora, Bedrock), Kubernetes, OpenTelemetry, SLI/SLO
+- **Fintech** — Low-latency trading and regulated financial systems: sub-100ms derivatives pipelines (~35k trades/day) and regulatory intelligence over 1M+ documents.
+- **AI/ML** — Production LLM, RAG, multi-agent and real-time voice AI (p95 < 600 ms), with fine-tuning and latency-tiered serving.
+- **Distributed systems** — Event-driven architectures on Kafka, real-time processing in Go and Python.
+- **Cloud & reliability** — AWS/EKS and Kubernetes with OpenTelemetry and SLI/SLO; 99.95% platform uptime.
 
 ---
 
@@ -67,15 +67,6 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
----
-
-### Featured Work
-
-- **Certis** — Multi-agent voice AI platform (p95 < 600 ms), computer-vision workflows, and model governance.
-- **RegASK** — Sole architect of a production LLM-powered regulatory platform over 1M+ documents; lifted uptime to 99.95%.
-- **TP ICAP** — Sub-100 ms derivatives trading pipeline (~35k trades/day); migrated 12+ services to an AWS-native stack.
-- **Chope** — Monolith-to-microservices migration for a high-traffic reservation platform.
 
 ---
 

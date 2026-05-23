@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Shan Wijenayaka 👋</h1>
+<h1 align="center">Shan Wijenayaka</h1>
 
-<h3 align="center">Lead AI/ML Engineer @ Certis · Singapore 🇸🇬</h3>
+<h3 align="center">Lead AI/ML Engineer @ Certis · Singapore</h3>
 
 <p align="center">
   Building production AI systems where latency and correctness aren't negotiable —<br/>
@@ -15,16 +15,16 @@
 
 ---
 
-### 🧠 What I do
+### What I do
 
-- 🤖 **AI/ML platforms** — LLM orchestration, RAG, multi-agent & voice AI, fine-tuning (LoRA)
-- ⚡ **Low-latency serving** — vLLM, quantization (AWQ/GPTQ), semantic caching, latency-tiered routing
-- 🛰️ **Distributed systems** — event-driven architecture, Kafka, microservices
-- ☁️ **Cloud & reliability** — AWS (EKS, MSK, Aurora, Bedrock), Kubernetes, OpenTelemetry, SLI/SLO
+- **AI/ML platforms** — LLM orchestration, RAG, multi-agent & voice AI, fine-tuning (LoRA)
+- **Low-latency serving** — vLLM, quantization (AWQ/GPTQ), semantic caching, latency-tiered routing
+- **Distributed systems** — event-driven architecture, Kafka, microservices
+- **Cloud & reliability** — AWS (EKS, MSK, Aurora, Bedrock), Kubernetes, OpenTelemetry, SLI/SLO
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -70,16 +70,15 @@
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 - **Certis** — Multi-agent voice AI platform (p95 < 600 ms), computer-vision workflows, and model governance.
 - **RegASK** — Sole architect of a production LLM-powered regulatory platform over 1M+ documents; lifted uptime to 99.95%.
 - **TP ICAP** — Sub-100 ms derivatives trading pipeline (~35k trades/day); migrated 12+ services to an AWS-native stack.
-- **Chope** — Monolith → microservices migration for a high-traffic reservation platform.
+- **Chope** — Monolith-to-microservices migration for a high-traffic reservation platform.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shanwije?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=0366d6" alt="Followers" />
   <a href="https://shanwijenayaka.com"><img src="https://img.shields.io/badge/More%20at-shanwijenayaka.com-0366d6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
